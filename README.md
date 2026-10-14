@@ -23,13 +23,14 @@
 <br />
 
 ## 👨‍💻 My Story
+## 👨‍💻 My Story
 
-I am a **Computer Science student at [SPSU, Udaipur](https://www.spsu.ac.in)**. I love technology and building things that matter.
+I am a **Computer Science Engineering student at BIT Meerut, affiliated with Dr. A.P.J. Abdul Kalam Technical University (AKTU)**. I am passionate about coding, problem-solving, and building projects that help me grow as a developer.
 
-*   **AI & Research:** I use **Python and Machine Learning** to solve real-world problems. I recently analyzed **School Dropout Rates** using ML models.
-*   **Web Development:** I build fast, modern websites using the **MERN Stack** (MongoDB, Express, React, Node.js).
-*   **Always Learning:** I am constantly improving my skills in **Data Structures & Algorithms** and sharing my knowledge.
-
+-  **Java & DSA:** I am learning Java programming and Data Structures & Algorithms to strengthen my logical thinking and problem-solving skills.
+-  **Web Development:** I use **HTML and CSS** to build and design web projects, and I am continuously improving my front-end development skills.
+-  **Projects & Practice:** I enjoy applying my knowledge through hands-on projects and practicing coding problems on LeetCode.
+-  **Always Learning:** I am constantly learning new technologies and working toward my goal of becoming a skilled **Software Engineer**.
 <br />
 
 

@@ -23,7 +23,6 @@
 <br />
 
 ## 👨‍💻 My Story
-## 👨‍💻 My Story
 
 I am a **Computer Science Engineering student at BIT Meerut, affiliated with Dr. A.P.J. Abdul Kalam Technical University (AKTU)**. I am passionate about coding, problem-solving, and building projects that help me grow as a developer.
 
